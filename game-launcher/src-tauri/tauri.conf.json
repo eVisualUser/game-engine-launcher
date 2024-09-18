@@ -10,7 +10,7 @@
     "withGlobalTauri": true,
     "windows": [
       {
-        "title": "game-launcher",
+        "title": "Unreal Engine - Launcher",
         "width": 800,
         "height": 600
       }
@@ -27,7 +27,7 @@
       "icons/128x128.png",
       "icons/128x128@2x.png",
       "icons/icon.icns",
-      "icons/icon.ico"
+      "icons/rls_icon.ico"
     ]
   }
 }
